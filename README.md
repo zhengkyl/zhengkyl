@@ -1,5 +1,10 @@
-### Hi there 👋
+## Hello there  (•◡•) /
 
+I'm a CS student passionate about things and interested in working on stuff. Despite my best efforts, I have spent uncountable hours developing frontends (usually with some React framework) for useful ideas and useless projects.
+
+## Check me out (͠≖ ͜ʖ͠≖)👌
+
+kylezheng.tech
 <!--
 **zhengkyl/zhengkyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
