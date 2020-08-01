@@ -1,6 +1,7 @@
 ## Hello there  (•◡•) /
-
+![Image of Kyle](https://github.com/zhengkyl/zhengkyl/spinsplash.gif)
 I'm a CS student passionate about things and interested in working on stuff. Despite my best efforts, I have spent uncountable hours developing frontends (usually with some React framework) for useful ideas and useless projects.
+
 
 ## Check me out (͠≖ ͜ʖ͠≖)👌
 
