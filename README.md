@@ -6,7 +6,7 @@ I'm a CS student passionate about things and interested in working on stuff. Des
 
 ## Check me out (͠≖ ͜ʖ͠≖)👌
 
-[kylezheng.dev](https://www.kylezheng.dev)
+[kylezheng.dev](https://kylezhe.ng)
 <!--
 **zhengkyl/zhengkyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
