@@ -1,12 +1,14 @@
 ## Hello there  (•◡•) /
 ![Image of Kyle](https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif)
 
-I'm a CS student passionate about things and interested in working on stuff. Despite my best efforts, I have spent uncountable hours developing frontends (usually with some React framework) for useful ideas and useless projects.
+I'm studying CS and Math but don't ask me math questions.
 
+I've worked with a lot of Javascript on the front-end and back-end.
 
-## Check me out (͠≖ ͜ʖ͠≖)👌
+## Check out my personal website (͠≖ ͜ʖ͠≖)👌
 
 [kylezhe.ng](https://kylezhe.ng)
+
 <!--
 **zhengkyl/zhengkyl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
