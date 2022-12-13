@@ -5,9 +5,7 @@
 
 a fan of Typescript
 
-learning Rust (I swear I actually am believe me)
-
-learning Haskell (ok this is a lie)
+learning Rust and Go
 
 trying to find purpose
 
