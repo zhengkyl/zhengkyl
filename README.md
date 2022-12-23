@@ -5,7 +5,7 @@
 
 a fan of Typescript
 
-learning Rust and Go
+~~learning~~ no longer hyped about Rust and Go
 
 trying to find purpose
 
