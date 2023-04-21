@@ -5,15 +5,11 @@
 
 ## Right now, I am
 
-a fan of Typescript
-
-~~learning~~ no longer hyped about Rust and Go
-
-trying to find purpose
+figuring out how to disrupt the chinese animation industry
 
 ## In the future, I will be
 
-unemployed
+disrupting the chinese animation industry
 
 
 
