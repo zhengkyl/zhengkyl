@@ -5,8 +5,8 @@
 
 ## Right now, I am
 - creating future technical debt
-- doing whatever it takes to avoid driving
+- unemployed
 
 ## In the future, I will be
 - creating futurer technical debt
-- enjoying not driving
+- employed
