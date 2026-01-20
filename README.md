@@ -12,19 +12,9 @@
 <img width="21%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
 <div>Go 8%</div>
 <img width="19%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
-<div>HTML 3%</div>
-<img width="7%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
-<div>MDX 3%</div>
-<img width="7%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
-<div>Python 2%</div>
-<img width="5%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
-<div>Dart 2%</div>
-<img width="5%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
-<div>CSS 2%</div>
-<img width="5%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
-<div>Other 1%</div>
-<img width="2%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
-
+<div>Other 13%</div>
+<img width="31%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
 
 ## Currently, I am
 - obsessed with QR codes
+- [<img width="300" src="https://github.com/zhengkyl/fuqr/blob/main/examples/bad_apple_1.png?raw=true"/>](https://youtu.be/1ems029Rln4)
