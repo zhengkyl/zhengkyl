@@ -16,5 +16,8 @@
 <img width="31%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
 
 ## Currently, I am
-- obsessed with QR codes
-- [<img width="300" src="https://github.com/zhengkyl/fuqr/blob/main/examples/bad_apple_1.png?raw=true"/>](https://youtu.be/1ems029Rln4)
+
+making QR codes
+
+[<img width="300" src="https://github.com/zhengkyl/fuqr/blob/main/examples/bad_apple_1.png?raw=true"/>](https://youtu.be/1ems029Rln4)
+[<img width="300" src="https://github.com/zhengkyl/qrhorse/blob/main/public/horse_medium.gif?raw=true"/>](https://qrhorse.com)
