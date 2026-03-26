@@ -2,10 +2,8 @@
 
 ## Top Languages
 
-<div>Typescript 42%</div>
+<div>Javascript 60%</div>
 <img width="100%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
-<div>Javascript 18%</div>
-<img width="43%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
 <div>Rust 10%</div>
 <img width="24%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
 <div>Elixir 9%</div>
