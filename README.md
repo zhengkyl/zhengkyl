@@ -15,6 +15,8 @@
 
 ## Currently, I am
 
+building [qrshark.net](https://www.qrshark.net)
+
 making QR codes
 
 [<img width="300" src="https://github.com/zhengkyl/fuqr/blob/main/examples/bad_apple_1.png?raw=true"/>](https://youtu.be/1ems029Rln4)
