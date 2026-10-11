@@ -13,15 +13,4 @@
 <div>Other 13%</div>
 <img width="31%" height="10px" src="https://github.com/zhengkyl/zhengkyl/blob/master/spinsplash.gif" />
 
-## Currently, I am
-
-vibe coding a [shape rotating game for wordcels](https://github.com/zhengkyl/wordmongering)
-
-[writing shakespeare sonnets with my left hand](https://kylezhe.ng/writes/left-hand-shakespeare)
-
-
-
-[crafting QR codes](https://kylezhe.ng/writes/crafting-qr-codes) and building [qrshark.net](https://www.qrshark.net)
-
-[<img width="300" src="https://github.com/zhengkyl/fuqr/blob/main/examples/bad_apple_1.png?raw=true"/>](https://youtu.be/1ems029Rln4)
-[<img width="300" src="https://github.com/zhengkyl/qrhorse/blob/main/public/horse_medium.gif?raw=true"/>](https://qrhorse.com)
+apparently I like javascript
